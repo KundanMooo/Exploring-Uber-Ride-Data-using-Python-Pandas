@@ -22,5 +22,5 @@ With data about the preference for personal and commercial rides, Uber can build
 ### 4.Demand Forecasting: 
 Analyzing popular starting places and monthly travel trends helps Uber to estimate demand and deploy resources accordingly. For example, on weekends or holidays when demand is higher, Uber might boost the number of available drivers in select areas to provide timely service and match customer expectations.
 
-### 4.Pricing techniques: 
+### 5.Pricing techniques: 
 Leveraging knowledge from the average distance travelled in each month, Uber may modify pricing methods. For example, during busy tourist seasons or events, businesses should consider using surge pricing to balance supply and demand and assure availability of drivers during high-demand periods.
