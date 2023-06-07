@@ -7,3 +7,11 @@ It also includes data cleaning, calculating average distance, and performing sea
  and analyzing monthly bookings and total miles covered by customer type.
  Additionally, the analysis includes determining the percentage of business customers among Uber cab travelers. 
  The project provides valuable insights into ride patterns, customer preferences, and business travel trends within the Uber dataset.
+
+
+# Insights 
+### Route Optimization:
+Based on the popular route from Paris to Fort Pierce, Uber may strategically allocate drivers in such locations during peak hours to reduce wait times improve overall service. For example, Uber can give incentives to drivers to encourage them to operate in these specified places.
+
+### Service Improvements: 
+Upon recognising rides with the maximum distance traveled, Uber can explore factors contributing to longer journeys. For instance, if data indicates a significant number of diversions or ineffective routing, Uber can give additional training to drivers on optimum navigation techniques or consider implementing better routing algorithms into their driver app.
